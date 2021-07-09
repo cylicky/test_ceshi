@@ -1,1 +1,3 @@
-你好啊，测试查看状态  git status
+git status  查看状态
+
+git add .  提交到缓存区，又修改了一次文件 
