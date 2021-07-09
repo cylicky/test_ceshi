@@ -18,3 +18,7 @@ git add .  把文件添加到Git 库
   A：添加某个文件时，该文件必须在当前目录下存在，用ls或者dir命令查看当前目录的文件，看看文件是否存在，或者是否写错了文件名。
 git commit -m 'Git学习'  版本说明
 1 file changed：1个文件被改动（我们新添加的readme.txt文件）；2 insertions：插入了两行内容
+
+git reset --hard '版本号 commit'
+git log  查看当前在那个版本，还有之前的
+git reflog  查看所有版本号 
