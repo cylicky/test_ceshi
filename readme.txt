@@ -22,3 +22,5 @@ git commit -m 'Git学习'  版本说明
 git reset --hard '版本号 commit'
 git log  查看当前在那个版本，还有之前的
 git reflog  查看所有版本号 
+
+git status  查看修改的文件状态  红色代表修改过
