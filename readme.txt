@@ -29,7 +29,7 @@ cat 文件名  查看文件里面的内容
 
 git remote add origin https://github.com/cylicky/test_ceshi.git  链接网上库
 
-$ git branch -M main    
+$ git branch -M main     
 $ git push -u origin main   上传到网上的分支上
 
 
