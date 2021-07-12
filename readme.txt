@@ -27,3 +27,9 @@ git status  查看修改的文件状态  红色代表修改过还没有放到暂
 
 cat 文件名  查看文件里面的内容  
 
+git remote add origin https://github.com/cylicky/test_ceshi.git
+
+$ git branch -M main
+$ git push -u origin main
+
+
