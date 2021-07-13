@@ -31,5 +31,9 @@ git remote add origin https://github.com/cylicky/test_ceshi.git  链接网上库
 
 $ git branch -M main     
 $ git push -u origin main   上传到网上的分支上
+ ## 使用git克隆github上的项目失败：unable to access github: OpenSSL SSL_read: Connection was reset, errno 10054
+更新DNS缓存 
+Windows  cmd终端  ipconfig /flushdns
+MAC  sudo killall -HUP mDNSResponder    sudo dscacheutil -flushcache
 
 
