@@ -31,5 +31,7 @@ git remote add origin https://github.com/cylicky/test_ceshi.git  链接网上库
 $ git branch -M main      创建分支
 $ git push -u origin main   上传到网上的分支上
 
-
+git remote  add  origin 路劲
+git push -u origin master  第一次提交
+git push  origin master 后面提交
 
