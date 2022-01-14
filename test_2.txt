@@ -1,3 +1,0 @@
-git remote  add  origin 路劲
-git push -u origin master  第一次提交
-git push  origin master 后面提交
