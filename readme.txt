@@ -35,3 +35,11 @@ git remote  add  origin 路劲
 git push -u origin master  第一次提交
 git push  origin master 后面提交
 
+git status  查看状态
+
+git add .  提交到缓存区，又修改了一次文件 
+git checkout --file  撤回刚刚修改的文件
+
+git reset HEAD 文件名  撤回提交上暂存区的文件
+
+git status 插看文件状态
